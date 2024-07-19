@@ -3,6 +3,9 @@
 		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=000103&center=true&vCenter=true&width=435&lines=Welcome+to+my+world!;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C">
 	</a>
 </h1>
+<div>
+  <img src="https://komarev.com/ghpvc/?username=zhaodangxue&&style=flat-square" />
+</div>
 
 ### Profile
 - 👋 Hi, I’m @zhaodangxue，zhaodangxue is not my real name
