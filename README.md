@@ -13,28 +13,28 @@ You can click the Preview link to take a look at your changes.
 
 ### Languages and Tools
 
-<code><img height="75" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg"></code>
-<code><img height="75" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/df5bacba92a025537970ad7ad34a1c54e1aa6869/programming%20languages/c.svg"></code>
-<code><img height="75" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/df5bacba92a025537970ad7ad34a1c54e1aa6869/programming%20languages/java.svg"></code>
-<code><img height="75" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/df5bacba92a025537970ad7ad34a1c54e1aa6869/programming%20languages/python.svg"></code>
-<code><img height="75" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/df5bacba92a025537970ad7ad34a1c54e1aa6869/programming%20languages/go.svg"></code>
-<code><img height="75" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/git.svg"></code>
-<code><img height="75" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/mysql.svg"></code>
-<code><img height="75" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/redis.svg"></code>
-<code><img height="75" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/df5bacba92a025537970ad7ad34a1c54e1aa6869/cloud/docker.svg"></code>
-<code><img height="75" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/kubernetes.svg"></code>
-<code><img height="75" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/hexo.svg"></code>
+<code><img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/df5bacba92a025537970ad7ad34a1c54e1aa6869/programming%20languages/c.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/df5bacba92a025537970ad7ad34a1c54e1aa6869/programming%20languages/java.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/df5bacba92a025537970ad7ad34a1c54e1aa6869/programming%20languages/python.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/df5bacba92a025537970ad7ad34a1c54e1aa6869/programming%20languages/go.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/git.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/mysql.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/redis.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/df5bacba92a025537970ad7ad34a1c54e1aa6869/cloud/docker.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/kubernetes.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/hexo.svg"></code>
 
 ### The IDE I use
 
-<code><img height="75" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/visual-studio-code.svg"></code>
-<code><img height="75" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/intellij-idea.svg"></code>
-<code><img height="75" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/clion.svg"></code>
-<code><img height="75" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/datagrip.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/visual-studio-code.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/intellij-idea.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/clion.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/datagrip.svg"></code>
 
 ### Learning
 
-<code><img height="75" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/pytorch.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/pytorch.svg"></code>
 
 
 
