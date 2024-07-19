@@ -42,5 +42,6 @@ You can click the Preview link to take a look at your changes.
 
 <code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/pytorch.svg"></code>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhaodangxue&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
