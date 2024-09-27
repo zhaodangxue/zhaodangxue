@@ -12,7 +12,7 @@
 - 🌱 I’m currently a SJTUer 
 - 📫 How to reach me zbmdsg@foxmail.com
 - 😄 Pronouns: What can I say !
-- 👀 MyBlog:https://zhaodangxue.github.io/
+- 👀 MyBlog:zhaodangxue.top
 
 <!---
 zhaodangxue/zhaodangxue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
